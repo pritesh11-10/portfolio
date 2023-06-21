@@ -46,7 +46,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        Experienced Software Engineer with a demonstrated history of working in banking and healthcare. I have over 9 years of coding experience, including personal projects, professional experience and coursework. Skilled in Java and Spring based backend, JavaScript, C#, ReactJS, MySQL, HTML, NextJS, CSS. 
+        Experienced Software Engineer with a demonstrated history of working in banking and healthcare. I have over 3 years of professional experience. Skilled in Java and Spring based backend, JavaScript, C#, ReactJS, MySQL, HTML, NextJS, CSS. 
         I love solving interesting challenges, bridging boundaries, networking and learning new technologies. I believe in delivering the best and look forward to utilizing the knowledge and soft-skills I have gained during my various internships and projects to make positive contributions to the ever-growing tech industry. Let's work together to bring your ideas to life!
       </motion.p>
 
