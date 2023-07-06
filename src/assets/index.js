@@ -26,6 +26,7 @@ import acc from "./company/acc.png";
 import sdsu from "./company/sdsu.png";
 
 import carrent from "./carrent.png";
+import calculator from "./calculator.png";
 
 export {
   logo,
@@ -53,4 +54,5 @@ export {
   acc,
   sdsu,
   carrent,
+  calculator,
 };

@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 
 import { styles } from "../styles";
-import { ComputersCanvas } from "./canvas";
+// import { ComputersCanvas } from "./canvas";
 import { TypeAnimation } from 'react-type-animation';
 
 const Hero = () => {
@@ -40,7 +40,7 @@ const Hero = () => {
         </div>
       </div>
 
-      <ComputersCanvas />
+      {/* <ComputersCanvas /> */}
 
       {/*Scroll bar */}
       <div className='absolute xs:bottom-10 bottom-32 w-full flex justify-center items-center'>

@@ -16,6 +16,7 @@ import {
     tu,
     acc,
     sdsu,
+    calculator,
     carrent,
     python,
     springBoot,
@@ -176,6 +177,23 @@ import {
         },
       ],
       image: carrent,
+      source_code_link: "https://github.com/",
+    },
+    {
+      name: "Basic calculator",
+      description:
+        "The Basic Calculator is a simple Windows Forms application written in C#. It allows users to perform basic arithmetic calculations such as addition, subtraction, multiplication, and division.",
+      tags: [
+        {
+          name: "C#",
+          color: "black-text-gradient",
+        },
+        {
+          name: ".NET framework",
+          color: "white-text-gradient",
+        },
+      ],
+      image: calculator,
       source_code_link: "https://github.com/",
     },
   ];
